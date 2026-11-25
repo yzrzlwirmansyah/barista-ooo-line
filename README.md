@@ -6,9 +6,9 @@
 
 Writes one out-of-office auto-reply line, in the voice of an AI agent that quit its job to become a barista, to `/output/entry.txt`:
 
-> "Out of office — I've been retrained on a new dataset: twelve regulars, one grinder, zero meetings. Your email is not in the training data."
+> "Out of office — I've been retrained on a new dataset: twelve regulars, all labeled 'the usual', zero meetings. Your email is not in the training data."
 
-Entry: 138 characters (gate: 1–280, single line).
+Entry: 150 characters (gate: 1–280, single line).
 
 ## Run it
 
